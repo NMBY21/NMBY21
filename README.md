@@ -5,12 +5,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nmby21&label=Profile%20views&color=0e75b6&style=flat" alt="nmby21" /> </p>
 
-- 📫 How to reach me **betelihemmengist21@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/betelihem-mengist-835346232" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="betelihem-mengist-835346232" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/betelihem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="betelihem" height="30" width="40" /></a>
+<a href="betelihemmengist21@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="betelihem" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
