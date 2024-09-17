@@ -1,11 +1,9 @@
 <img width = "3000" height="300" src="https://miro.medium.com/v2/resize:fit:900/1*b29pJKZqp6Jxb3rd9QlJiw.png">
 <h1 align="center">Hi 👋, I'm Betelihem Mengist</h1>
-<h3 align="center">A Software Engineering Student at AAiT</h3>
+<h3 align="center">Software Engineering</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nmby21&label=Profile%20views&color=0e75b6&style=flat" alt="nmby21" /> </p>
-
-- 🌱 I’m currently learning **MERN STACK**
 
 - 📫 How to reach me **betelihemmengist21@gmail.com**
 
